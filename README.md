@@ -52,5 +52,5 @@ Replace all placeholder values such as “Your Name”, sample project names, pr
 
 ## Related projects
 
-- [Ayush-Portfolio](https://github.com/Ujjwalpratap001/tree/main/Ayush-Portfolio) — portfolio configured for Ayush Patel
-- [Client Portfolio](https://github.com/Ujjwalpratap001/tree/main/client-portfolio) — customizable client-oriented portfolio template
+- [Ayush-Portfolio](https://github.com/Ujjwalpratap001/Ayush-Portfolio/tree/main) — portfolio configured for Ayush Patel
+- [Client Portfolio](https://github.com/Ujjwalpratap001/client-portfolio/tree/main) — customizable client-oriented portfolio template
